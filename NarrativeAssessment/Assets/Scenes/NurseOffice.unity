@@ -1006,7 +1006,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 181
     y: 118
-    width: 125.25773
+    width: 122.94116
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1015,6 +1015,7 @@ MonoBehaviour:
   description: Beat 1 Scene 1
   eventHandler: {fileID: 454754138}
   commandList:
+  - {fileID: 454754163}
   - {fileID: 454754149}
   - {fileID: 454754143}
   - {fileID: 454754156}
@@ -1034,11 +1035,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 3.0618563, y: 10.422673}
+  scrollPos: {x: 39.02047, y: 35.164917}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 305
-  zoom: 0.97
+  blockViewHeight: 433
+  zoom: 0.85000014
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1046,7 +1047,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 454754155}
+  - {fileID: 454754139}
   selectedCommands:
   - {fileID: 454754163}
   variables: []
@@ -1374,7 +1375,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 184
     y: 299
-    width: 107.73196
+    width: 106.47058
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1383,7 +1384,6 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 454754163}
   - {fileID: 454754146}
   - {fileID: 454754161}
   - {fileID: 454754145}
@@ -1433,7 +1433,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 320
     y: 214
-    width: 113.91753
+    width: 113.5294
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1462,7 +1462,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 53
     y: 210
-    width: 110.82474
+    width: 109.999985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0

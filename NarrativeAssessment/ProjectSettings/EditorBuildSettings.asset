@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MeetInstructor.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/IntroToWorld.unity
+    guid: 146f660ebcba82e4f823979a152cfa64
+  - enabled: 1
+    path: Assets/Scenes/NurseOffice.unity
+    guid: 5bf5de5aaf1b43648a29de66d577eaa5
   m_configObjects: {}
