@@ -473,7 +473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.2264151, g: 0.18476327, b: 0.18476327, a: 1}
+  m_Color: {r: 0.012335351, g: 0.02705208, b: 0.084905684, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -869,8 +869,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.78700006}
-  m_AnchoredPosition: {x: 277, y: 118.4}
-  m_SizeDelta: {x: -74.579, y: 88.573}
+  m_AnchoredPosition: {x: 127.178, y: 118.4}
+  m_SizeDelta: {x: 187.363, y: 41.798}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &425022917
 MonoBehaviour:
@@ -988,13 +988,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 182.03093
     y: 119.03093
-    width: 125.25773
+    width: 103.77046
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 0
-  blockName: NursesOffice
-  description: Beat 1 Scene 1
+  blockName: BlankIntro
+  description: Introduction to World
   eventHandler: {fileID: 454754138}
   commandList:
   - {fileID: 454754143}
@@ -1015,11 +1015,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 3.0618563, y: 10.422673}
+  scrollPos: {x: 301.3615, y: 133.5441}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 506
-  zoom: 0.97
+  blockViewHeight: 398.8
+  zoom: 0.6100004
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1028,8 +1028,7 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 454754139}
-  selectedCommands:
-  - {fileID: 454754144}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -1069,7 +1068,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: blah blah blah
+  storyText: "In this dystopia, the growth of humans for organ harvesting is a fairly
+    common practice around the world. There are specialized facilities created for
+    it and this game is set in one of these facilities.\r\n\r\nYou are playing as
+    a child who has been created for harvesting. Scientists have created a synthetic
+    protein that attaches to DNA strands. This protein stays dormant until the subject
+    reaches puberty. If successful, the protein will attach and allow the subject's
+    organs to be accepted by any other human. Waiting for a donor match is a thing
+    of the past!\r\n\r\nYou have already had a blood test and are now waiting on
+    the results. Good Luck!\r"
   description: 
   character: {fileID: 363338376}
   portrait: {fileID: 21300000, guid: ea8f56c43254d41728f5ac4e8299b6c9, type: 3}
@@ -1899,7 +1906,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -1222, y: 118}
+  m_AnchoredPosition: {x: -1341, y: 130}
   m_SizeDelta: {x: 274.794, y: 291.14}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &703129703
