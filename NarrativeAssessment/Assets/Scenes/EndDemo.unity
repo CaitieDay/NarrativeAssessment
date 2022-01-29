@@ -1114,7 +1114,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 454754139}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 454754142}
   variables: []
   description: 
   stepPause: 0
@@ -1154,7 +1155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: 'Thanks for playing this short demo of this game!
+  storyText: 'Thanks for playing this short demo of my game!
 
 
     Created By

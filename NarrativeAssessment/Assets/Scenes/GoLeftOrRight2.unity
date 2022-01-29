@@ -1330,8 +1330,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 454754142}
-  selectedCommands: []
+  - {fileID: 454754152}
+  selectedCommands:
+  - {fileID: 454754149}
   variables: []
   description: 
   stepPause: 0
@@ -1531,7 +1532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: Go left
+  storyText: Go right
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2472,7 +2473,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 638, y: 1043}
+  m_AnchoredPosition: {x: 353, y: 963}
   m_SizeDelta: {x: 268.999, y: 88.13}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &706155544
