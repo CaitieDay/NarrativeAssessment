@@ -6,12 +6,42 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TaskCentre.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: Assets/Scenes/IntroToWorld.unity
     guid: 146f660ebcba82e4f823979a152cfa64
   - enabled: 1
     path: Assets/Scenes/NurseOffice.unity
     guid: 5bf5de5aaf1b43648a29de66d577eaa5
+  - enabled: 1
+    path: Assets/Scenes/MeetInstructor.unity
+    guid: b85c665d073b0f74cb354e32051197ae
+  - enabled: 1
+    path: Assets/Scenes/TaskCentre.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FoodDelivery.unity
+    guid: 20be6abc22521a343b93345861736e8b
+  - enabled: 1
+    path: Assets/Scenes/DocumentDelivery.unity
+    guid: c87fcd3f3dec81346b7091a6ae1060d8
+  - enabled: 1
+    path: Assets/Scenes/GoLeftOrRight1.unity
+    guid: 4bcb54fb5a110f1499462d9f5d0680b8
+  - enabled: 1
+    path: Assets/Scenes/GoLeftOrRight2.unity
+    guid: 03ac91cbc300c5342b3c9583d5b1f61a
+  - enabled: 1
+    path: Assets/Scenes/GoLeft1.unity
+    guid: 2d99f937b57f2de4db18b79e2b4b61f4
+  - enabled: 1
+    path: Assets/Scenes/GoLeft2.unity
+    guid: a7edbe7b53b32cc4cb198a5217816620
+  - enabled: 1
+    path: Assets/Scenes/GoRight1.unity
+    guid: 8dc4aef9102e31240bbd43b567915a84
+  - enabled: 1
+    path: Assets/Scenes/GoRight2.unity
+    guid: e8ca1f8eb2706184a86e7fbdcce81e8e
+  - enabled: 1
+    path: Assets/Scenes/EndDemo.unity
+    guid: ba41ee470f751d84aa1733c28b0eef42
   m_configObjects: {}
